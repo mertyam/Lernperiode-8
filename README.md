@@ -7,8 +7,8 @@ Ich will als erstes in dieser Lernperiode an der LB vom Modul 450 arbeiten. Ich 
 
 ## 17.01.2025
 
-- [ ] 
-- [ ] 
+- [ ] Aufträge vom Modul 295 beenden (die die übrig beliben dann nächste Woche)
+- [ ] Themen repetieren Modul 295
 
 
 ## Reflexion
