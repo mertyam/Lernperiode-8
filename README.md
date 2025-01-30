@@ -12,7 +12,12 @@ Ich will als erstes in dieser Lernperiode an der LB vom Modul 450 arbeiten. Ich 
 
 ## 24.01.2025
 
-- [ ] Modul 295 Backend vorbereiten für Prüfung
-- [ ] Modul Docker arbeiten
+- [x] Modul 295 Backend vorbereiten für Prüfung
+- [x] Modul Docker arbeiten
+
+## 31.02.2025
+
+- [ ] Auftrag CORS beenden M295
+- [ ] An den Moodle Tests vom Modul 114 arbeiten (nehme mir extra Zeit, weil es benotet wird)
 
 ## Reflexion
