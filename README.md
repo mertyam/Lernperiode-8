@@ -17,7 +17,7 @@ Ich will als erstes in dieser Lernperiode an der LB vom Modul 450 arbeiten. Ich 
 
 ## 31.02.2025
 
-- [ ] Auftrag CORS beenden M295
-- [ ] An den Moodle Tests vom Modul 114 arbeiten (nehme mir extra Zeit, weil es benotet wird)
+- [x] Auftrag CORS beenden M295
+- [x] An den Moodle Tests vom Modul 114 arbeiten (nehme mir extra Zeit, weil es benotet wird)
 
 ## Reflexion
