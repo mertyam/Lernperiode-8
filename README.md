@@ -7,7 +7,7 @@ Ich will als erstes in dieser Lernperiode an der LB vom Modul 450 arbeiten. Ich 
 
 ## 17.01.2025
 
-- [x] Aufträge vom Modul 295 beenden (die die übrig beliben dann nächste Woche)
+- [x] Aufträge vom Modul 295 beenden (die die übrig bleiben dann nächste Woche)
 - [x] Themen repetieren Modul 295
 
 ## 24.01.2025
@@ -15,9 +15,14 @@ Ich will als erstes in dieser Lernperiode an der LB vom Modul 450 arbeiten. Ich 
 - [x] Modul 295 Backend vorbereiten für Prüfung
 - [x] Modul Docker arbeiten
 
-## 31.02.2025
+## 31.01.2025
 
 - [x] Auftrag CORS beenden M295
 - [x] An den Moodle Tests vom Modul 114 arbeiten (nehme mir extra Zeit, weil es benotet wird)
+
+## 21.02.2025
+
+- [ ] Probeprüfung von dem Modul Docker beenden
+- [ ] An den Moodle Tests vom Modul 114 weiterarbeiten HZ2
 
 ## Reflexion
